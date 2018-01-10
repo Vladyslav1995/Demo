@@ -1,0 +1,28 @@
+college|Natural College|Address
+student|Gopko I. N.|CS-11|Computer Science
+student|Dzura G.N.|CS-31|Computer Science
+student|Ivanchenko S.I.|CS-11|Computer Science
+student|Stelmah A.O.|OE-12|Ecology
+employee|Adamchuk A.A|Accountant|3700,0
+employee|Bilak D.R.|Teacher|3800,3
+employee|Rudolf A.S|Teacher|3800,3
+employee|Kistion L.S.|Chief Accountant|5000,0
+employee|Rosoha I.I.|Chief|6000,0
+;
+college|Lviv Cooperative College of Economics and Law|Address
+student|Javorskiy R.R.|ES-11|Economics
+student|Karpenko S.O.|ES-21|Economics
+student|Karapa D.R.|BO-11|Accountance
+student|Mendel T.V.|PR-31|International Law
+employee|Uhymenko P.M.|Accontant|3700,3
+employee|Petryk V.V.|Teacher|3800,3
+employee|Lewandowskiy S.S.|Senior Teacher|4000,3
+employee|Rizak O.P.|Chief|6000,3
+;
+college|Law College|Address
+student|Marchuk T.V.|PR-31|Jureprisidence
+student|Melnychenko S.B.|PR-31|Jureprisidence
+employee|Petrenko S.O.|Teacher|3800,3
+employee|Sikorskiy D.S.|Senior Teacher|4000,3
+employee|Gordienko K.P.|Chief|6000,3
+;
